@@ -1,9 +1,9 @@
 instructors:
   - name: Tamer Abuhmed
-    profile_pic: /_images/pp/dumbledore.jpg
-    webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
+    profile_pic: /_images/pp/prof_tamer.jpeg
+    webpage: https://infolab-skku.github.io/
 
 teaching_assistants:
   - name: Firuz Juraev
-    profile_pic: /_images/pp/potter.jpg
-    webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
+    profile_pic: /_images/pp/firuz.jpg
+    webpage: https://firuzjuraev.vercel.app/
