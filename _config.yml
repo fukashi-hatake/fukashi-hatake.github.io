@@ -1,19 +1,32 @@
 # Site settings
-course_name: History of Magic
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Fall 1998"
+course_name: Artificial Intelligence - ISS3198
+course_description: |
+  The course introduces the core principles underlying modern AI systems with an emphasis on machine
+  learning and deep learning techniques. The course explores supervised and unsupervised learning,
+  neural networks, computer vision, natural language processing, reinforcement learning, and
+  generative models. Students will develop a conceptual understanding of how contemporary AI systems
+  are designed, trained, evaluated, and deployed across real-world domains such as healthcare, security,
+  robotics, and social media.
+
+  In addition to technical foundations, the course examines critical issues including model generalization,
+  robustness, bias, safety, and ethical implications of AI technologies. Designed for undergraduate
+  students, the course emphasizes analytical reasoning and system-level understanding rather than
+  advanced mathematical derivations or programming requirements. By the end of the course, students
+  will be able to explain how modern AI models function, evaluate their strengths and limitations, and
+  understand their broader societal impact.
+course_semester: "Summer 2026"
 
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://fukashi-hatake.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
+schoolname: "Sungkyunkwan University"
 schoolurl: "https://hogwarts.edu"
 twitter_username: username 
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    School of Computer Science and Engineering
+    Suwon
+    South Korea
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
