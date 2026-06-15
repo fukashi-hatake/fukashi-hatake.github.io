@@ -8,14 +8,6 @@
 - Responsive Mobile View
 - Support for Google Analytics
 
-# Change log
-- Version 2.0
-  - New Schedule page with more efficient use of space.
-  - Gregorian calendar is now the default one (English Calendar).
-  - Add customization options to home, assignments, lectures, and schedule pages.
-  - Add support for themes (so you can modify the website's look according to your school's brandings)!.
-  - Move navigation menus to YAML which means it is now easier to add new pages.
-  - Add more flexibility to lecture's links
 
 # Demo
 Checkout for a working demo at [kazemnejad.github.io/jekyll-course-website-template/](https://kazemnejad.github.io/jekyll-course-website-template/). You may also want to see this real-world example at [iust-deep-learning.github.io/972](https://iust-deep-learning.github.io/972/) or [iust-courses.github.io/ai97/](https://iust-courses.github.io/ai97/) (Please note the last two examples are using the older version).
