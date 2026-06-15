@@ -5,5 +5,9 @@ instructors:
 
 teaching_assistants:
   - name: FIRUZ Juraev
-    profile_pic: /_images/pp/firuz.jpg
+    profile_pic: /_images/pp/firuz.PNG
     webpage: https://firuzjuraev.vercel.app/
+  - name: ASILBEK Karimov
+    profile_pic: /_images/pp/asl.PNG
+    webpage: https://rakun.uz/about
+  
