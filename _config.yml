@@ -17,10 +17,10 @@ course_description: |
 course_semester: "Summer 2026"
 
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "http://fukashi-hatake.github.io/" # the base hostname & protocol for your site
+url: "http://fukashi-hatake.github.io/"
 
 schoolname: "Sungkyunkwan University"
-schoolurl: "https://hogwarts.edu"
+schoolurl: "https://skku.edu"
 twitter_username: username 
 
 address: |
