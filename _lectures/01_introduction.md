@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2018-09-16T8:00:00+4:30
+date: 2026-07-02T8:00:00+4:30
 title: (Lab 1) Supervised Learning 
 thumbnail: /static_files/presentations/lab_1.PNG
 links: 
