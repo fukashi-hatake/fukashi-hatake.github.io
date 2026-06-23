@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2018-09-16T8:00:00+4:30
-title: [Lab 1] Supervised Learning 
+title: (Lab 1) Supervised Learning 
 Topics: "Classification, Regression, Model Evaluation"
 thumbnail: /static_files/presentations/lab_1.PNG
 links: 
