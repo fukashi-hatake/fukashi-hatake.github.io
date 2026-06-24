@@ -2,6 +2,7 @@
 type: lecture
 date: 2026-07-02T8:00:00+4:30
 title: (Lab 1) Supervised Learning 
+tldr: 'Classification, Regression, and Model Evaluation'
 thumbnail: /static_files/presentations/lab_1.PNG
 links: 
     - url: https://docs.google.com/presentation/d/1WHiodCqEnUhrKRKoRd048f68Td5FxCawOkgImtWqtaE/edit?usp=sharing 
