@@ -1,10 +1,10 @@
 ---
 type: lecture
 date: 2026-07-18T8:00:00+4:30
-title: (Lab 6) Trustworthy AI 
+title: (Lab 5) Trustworthy AI 
 thumbnail: /static_files/presentations/lab_1.PNG
 links: 
-    - url: https://docs.google.com/presentation/d/1BABGN7SCC8_1gKxOq03wj0NDKx79LZ_ffC7IgJQMbiU/edit?usp=sharing
+    - url: https://example.com/ 
       name: Slides
     - url: /static_files/presentations/code.zip
       name: Codes
