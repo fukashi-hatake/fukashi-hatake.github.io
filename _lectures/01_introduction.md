@@ -9,7 +9,7 @@ links:
       name: Slides
     - url: https://colab.research.google.com/drive/1yXFyZcshDTl78rtZuuZPlzWUt7mod43W?usp=sharing
       name: Codes_1
-    - url: https://colab.research.google.com/drive/1yXFyZcshDTl78rtZuuZPlzWUt7mod43W?usp=sharing
+    - url: https://colab.research.google.com/drive/1tIFsD3E7p2jkZJbsqq2_bV3iKyD51zLF?usp=sharing
       name: Code_2
 ---
 **Suggested Readings:**
