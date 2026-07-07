@@ -14,5 +14,5 @@ links:
       name: Code_3
 ---
 **Suggested Readings:**
-- [Readings 1]([https://www.geeksforgeeks.org/machine-learning/k-means-clustering-introduction/))
-- [Readings 2](https://medium.com/@neil.liberman/k-means-clustering-e00408493a40))
+- [Readings 1](https://www.geeksforgeeks.org/machine-learning/k-means-clustering-introduction/)
+- [Readings 2](https://medium.com/@neil.liberman/k-means-clustering-e00408493a40)
