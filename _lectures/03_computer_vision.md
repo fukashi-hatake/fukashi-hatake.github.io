@@ -4,9 +4,9 @@ date: 2026-07-09T8:00:00+4:30
 title: (Lab 3) Computer Vision 
 thumbnail: /static_files/presentations/lab_1.PNG
 links: 
-    - url: https://example.com/  
+    - url: https://docs.google.com/presentation/d/1XTAWIFKAgHJNMaBp57-rK4VOpJFZFMgu52OmGc_SxjE/edit?usp=sharing  
       name: Slides
-    - url: /static_files/presentations/code.zip
+    - url: https://colab.research.google.com/drive/1M9kSbF-EiIGk4veEUZ5LgODMuNMUbM7q?usp=sharing
       name: Codes
     - url: https://google.com
       name: Notes
